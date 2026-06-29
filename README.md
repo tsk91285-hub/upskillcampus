@@ -60,7 +60,7 @@ PredictiveMaintenance/
 
 ```bash
 git clone https://github.com/tsk91285-hub/Predictive-Maintenance.git
-cd Predictive-Maintenance
+cd PredictiveMaintenance
 ```
 
 ### Install Dependencies
